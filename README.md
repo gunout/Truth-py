@@ -4,7 +4,7 @@
 
 # RUN PROGRAM 
 
-    pyhton3 truth.py
+    pyhton3 true.py
 
     
 
